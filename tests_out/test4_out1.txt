@@ -1,0 +1,31 @@
+Container has 30 elements:
+Rectangular parallelepiped. a = 16, b = 15, c = 2.  Volume = 480.000000.  Density = 1.122000
+Rectangular parallelepiped. a = 17, b = 8, c = 6.  Volume = 816.000000.  Density = 3.133000
+Regular tetrahedron.        a = 20.                Volume = 942.809042.  Density = 3.332000
+Ball.                       r = 14.                Volume = 11494.040322.  Density = 3.212000
+Regular tetrahedron.        a = 20.                Volume = 942.809042.  Density = 1.113000
+Rectangular parallelepiped. a = 7, b = 14, c = 20.  Volume = 1960.000000.  Density = 1.211000
+Regular tetrahedron.        a = 18.                Volume = 687.307791.  Density = 2.112000
+Ball.                       r = 5.                Volume = 523.598776.  Density = 1.232000
+Rectangular parallelepiped. a = 19, b = 14, c = 8.  Volume = 2128.000000.  Density = 2.123000
+Regular tetrahedron.        a = 2.                Volume = 0.942809.  Density = 2.132000
+Ball.                       r = 9.                Volume = 3053.628059.  Density = 2.332000
+Rectangular parallelepiped. a = 6, b = 4, c = 10.  Volume = 240.000000.  Density = 2.322000
+Regular tetrahedron.        a = 5.                Volume = 14.731391.  Density = 1.222000
+Ball.                       r = 6.                Volume = 904.778684.  Density = 1.232000
+Ball.                       r = 17.                Volume = 20579.526276.  Density = 3.213000
+Regular tetrahedron.        a = 14.                Volume = 323.383501.  Density = 1.121000
+Regular tetrahedron.        a = 18.                Volume = 687.307791.  Density = 2.222000
+Regular tetrahedron.        a = 11.                Volume = 156.859854.  Density = 2.233000
+Ball.                       r = 8.                Volume = 2144.660585.  Density = 2.121000
+Regular tetrahedron.        a = 20.                Volume = 942.809042.  Density = 2.113000
+Regular tetrahedron.        a = 20.                Volume = 942.809042.  Density = 3.121000
+Ball.                       r = 15.                Volume = 14137.166941.  Density = 3.331000
+Ball.                       r = 11.                Volume = 5575.279763.  Density = 3.213000
+Ball.                       r = 9.                Volume = 3053.628059.  Density = 2.133000
+Regular tetrahedron.        a = 1.                Volume = 0.117851.  Density = 2.322000
+Regular tetrahedron.        a = 10.                Volume = 117.851130.  Density = 3.132000
+Rectangular parallelepiped. a = 12, b = 3, c = 18.  Volume = 648.000000.  Density = 3.311000
+Regular tetrahedron.        a = 3.                Volume = 3.181981.  Density = 3.122000
+Regular tetrahedron.        a = 5.                Volume = 14.731391.  Density = 3.323000
+Regular tetrahedron.        a = 2.                Volume = 0.942809.  Density = 3.311000
